@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lanche Fácil</string>
+    <string name="iniciar_pedido">Iniciar Pedido</string>
+    <string name="lanche_frango">Lanche de Frango</string>
+    <string name="lanche_carne">Lanche de Carne</string>
+    <string name="lanche_vegetariano">Lanche Vegetariano</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="hint_nome_cliente">Nome do cliente</string>
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+    <string name="voltar_inicio">Voltar à tela inicial</string>
+    <string name="menu_lanches">Cardápio de Lanches</string>
+    <string name="pedido_concluido">Pedido Concluído</string>
+
+    <color name="verde_escuro">#006341</color>
+    <color name="verde_claro">#00A859</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="cinza_escuro">#4D4D4D</color>
+    <color name="cinza_claro">#B3B3B3</color>
+</resources>

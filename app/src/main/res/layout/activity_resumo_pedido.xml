@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <ImageView
+        android:src="@drawable/pedido_concluido"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:contentDescription="@string/pedido_concluido" />
+
+    <TextView
+        android:id="@+id/txtResu"
+        android:textColor="@color/cinza_escuro"
+        android:textSize="18sp"
+        android:layout_marginTop="24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="@string/voltar_inicio"
+        android:onClick="voltarInicio"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="@color/verde_escuro"
+        android:textColor="@color/branco"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
